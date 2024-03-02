@@ -1,0 +1,56 @@
+Id;Designator;Footprint;Quantity;Designation;Price;Toplam;;
+;;;;;;;;
+12;Y1,Y2;Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering;2;ABLS-12.000MHZ-B4-T;7,54;15,08;https://www.direnc.net/12000mhz-5032-smd-kristal;
+22;SW5,SW4,SW1,SW3;SW_SPST_PTS810;4;SW_Omron_B3FS;1,2;4,8;https://www.direnc.net/3x4-25-4p-smd-switch-wt1;
+5;U1,U6;SOT-223-3_TabPin2;2;NCP1117-3.3_SOT223;4,02;8,04;https://www.direnc.net/ams111733tr-ht-33v-1a-regulator;
+23;Q4,Q3,Q1,Q2;SOT-23;4;Si2302DDS;2,4;9,6;https://www.direnc.net/pja3406-r1-00001--44a-30v-n-ch-sot23;
+17;U4;nRF24L01_Breakout;2;NRF24L01_Breakout;84,42;168,84;https://www.robotistan.com/nrf24l01-pa-lna-sma-anten-24ghz-kablosuz-haberlesme-modulu;
+10;U3,U7;RP2040-QFN-56;2;RP2040;24,07;48,14;https://www.robotistan.com/raspberry-pi-rp2040;
+18;J5,J2;USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal;2;USB_C_Receptacle_USB2.0;11,54;23,08;https://www.robotistan.com/tp4056-type-c-1s-37v-lipo-li-ion-pil-sarj-devresi;
+6;U2,U5;SOIC-8_5.23x5.23mm_P1.27mm;2;W25Q128JVS;30,33;60,66;;
+24;SW6,SW2;SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile;2;SW_DIP_x04;0;0;;
+1;C4,C1,C17,C34,C22,C20;C_0805_2012Metric;6;10u;0,43;2,58;;
+15;D4,D2,D1,D3;D_DO-35_SOD27_P7.62mm_Horizontal;4;1N4148;0,34;1,36;;
+7;C3,C2,C18,C19;C_0402_1005Metric;4;27p;0,107;0,428;;
+2;C10,C8,C25,C27;C_0402_1005Metric;4;1u;0,1;0,4;;
+3;C13,C5,C9,C12,C14,C7,C11,C16,C6,C15,C26,C24,C32,C21,C31,C29,C23,C30,C28,C33;C_0402_1005Metric;20;100n;0,053;1,06;;
+20;R30,R28,R8,R10;C_0402_1005Metric;4;10K;0,026;0,104;;
+19;R32,R31,R13,R11;C_0402_1005Metric;4;100K;0,019;0,076;;
+9;R3,R4,R25,R26;C_0402_1005Metric;4;27r;0,0186;0,0744;;
+21;R12,R9,R29,R27;C_0402_1005Metric;4;4,7K;0,0186;0,0744;;
+16;R7,R21,R22,R6;C_0402_1005Metric;4;5.1k;0,00845;0,0338;;
+8;R1,R5,R24,R16,R14,R15,R17,R19,R20,R18;C_0402_1005Metric;10;1k;0,0026;0,026;;
+4;R2,R23;C_0402_1005Metric;2;DNF;0;0;;
+11;H2,H3,H1,H4,H4,H1,H3,H2;MountingHole_2.7mm_M2.5;8;MountingHole;0;0;;
+14;J6,J4,J3,J1;PinHeader_1x02_P1.27mm_Horizontal;4;Conn_01x02_Socket;0;0;;
+25;BZ1;Buzzer_12x9.5RM7.6;1;Buzzer;0;0;;
+26;U8;DIP-16_W7.62mm_Socket;1;MCP3008;137;137;;
+;;;;;;;;
+;;;;;;66,8766;;
+;;;;;direnç;174,52;;
+;;;;;robotistan;71,22;;
+;;;;;nrf;168,84;;
+;;;;;;;;
+;;;;;nrf ile toplam;481,4566;;
+;;;;;nrf olmadan toplam;312,6166;;
+;;;;;;;;
+;;;;;motorlar ve pil;465;;
+;;;;;;;nrf ile toplam;946,4566
+;;;;;;;normal toplam;777,6166
+;;;;;;;;
+;;;;;;;;
+;;;;;toplam 3 ki?i;özdisan;direnç;Robotistan
+;;;;;937,8498;267,5064;698,08;284,88
+;;;;;;;;
+;;;;;;422;446;308
+;;;;;;;;
+;;;;;;;1176;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;514;640;450
+;;;;;;;;
+;;;;;;;;
+;;;;;;1604;;
+;;;;;;;;
+;;;;;;;401;
